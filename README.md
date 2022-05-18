@@ -11,9 +11,13 @@
 
 
 ⚡ I’m currently working at Huawei as NLP Researcher/Developer
+
 🔭  NLP, Machine Learning, Deep Learning
+
 🌱 I’m currently learning Java Spring Framework
+
 💬 Ask me about NLP in python and java
+
 😄 Pronouns: he/him/his
 
 
