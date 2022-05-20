@@ -12,7 +12,7 @@
 
 ⚡ I’m currently working at Huawei as NLP Researcher/Developer
 
-🔭  NLP, Machine Learning, Deep Learning
+🔭 I'm currently working on NLP, Machine Learning, Deep Learning
 
 🌱 I’m currently learning Java Spring Framework
 
