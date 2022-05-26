@@ -16,7 +16,7 @@
 
 🌱 I’m currently learning Java Spring Framework
 
-💬 Ask me about NLP in python and java
+💬 Ask me about NLP with python and java
 
 😄 Pronouns: he/him/his
 
