@@ -14,7 +14,7 @@
 
 🔭 I'm currently working on NLP, Machine Learning, Deep Learning
 
-🌱 I’m currently learning Java Spring Framework
+🌱 I’m currently learning Weak Supervision and Active Learning for Data Annotation
 
 💬 Ask me about NLP with python and java
 
