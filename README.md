@@ -10,7 +10,7 @@
 
 
 
-⚡ I'm currently working at Silo AI as AI Engineer on Large Language Models
+⚡ I'm currently working at Silo AI as AI Engineer
 
 🔭 I'm currently working on NLP, Machine Learning, Deep Learning
 
