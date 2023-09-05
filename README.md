@@ -10,11 +10,11 @@
 
 
 
-⚡ I’m currently working at Huawei as NLP Researcher/Developer
+⚡ I'm currently working at Silo AI as AI Engineer on Large Language Models
 
 🔭 I'm currently working on NLP, Machine Learning, Deep Learning
 
-🌱 I’m currently learning Weak Supervision and Active Learning for Data Annotation
+🌱 I’m currently working on Large Language Models and Reinforcement Learning
 
 💬 Ask me about NLP with python and java
 
