@@ -10,13 +10,13 @@
 
 
 
-⚡ I'm currently working at Silo AI as AI Engineer
+⚡ I'm currently working at Silo AI as Senior AI Engineer
 
 🔭 I'm currently working on NLP, Machine Learning, Deep Learning
 
-🌱 I’m currently working on Large Language Models and Reinforcement Learning
+🌱 I’m currently working on Large Language Models and RAG (Retrieval Augmented Generation)
 
-💬 Ask me about NLP with python and java
+💬 Ask me about LLMs, NLP and Machine Learning with python and java
 
 😄 Pronouns: he/him/his
 
