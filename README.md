@@ -10,7 +10,7 @@
 
 
 
-⚡ I'm currently working at Silo AI as Senior AI Engineer
+⚡ I'm currently working at Multiverse Computing as Senior Machine Learning Scientist
 
 🔭 I'm currently working on NLP, Machine Learning, Deep Learning
 
