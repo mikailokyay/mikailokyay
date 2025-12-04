@@ -35,8 +35,9 @@ I'm a **Senior Machine Learning Scientist** at **Multiverse Computing**, where I
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mikailokyay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mikailokyay)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailokyay&layout=compact&hide=html,css" alt="Mikail's Top Languages" /></p>
-
+<p align="center">
+  <img src="https://stats.shirakig.net/mikailokyay/top-langs?layout=compact&hide=html" alt="Mikail's Top Languages" />
+</p>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mikailokyay" alt="mikailokyay" />
     <img src="https://views.whatilearened.today/views/github/mikailokyay/mikailokyay.svg?cache=remove" alt="Repo Views" />
