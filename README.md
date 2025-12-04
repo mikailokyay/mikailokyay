@@ -1,31 +1,47 @@
-<h1 align="left">Hi, I'm Mikail<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="left">Hi there, I'm Mikail Okyay <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Github Badge](https://img.shields.io/badge/-mikailokyay-000000?style=flat&logo=Github&logoColor=white)](https://github.com/mikailokyay "Follow on Github")
-[![Gmail Badge](https://img.shields.io/badge/-mikailokyy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mikailokyy@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Mikail%20Okyay-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikailokyay "Connect on LinkedIn")
-[![Kaggle Badge](https://img.shields.io/badge/-mikailokyay-00acee?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mikailokyay "Follow on Kaggle")
-[![HackerRank Badge](https://img.shields.io/badge/-@mikailokyy-2EC866?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/mikailokyy "Follow on HackerRank")
+### 💡 Senior Machine Learning Scientist | LLM & Multimodal Systems Expert
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikailokyay" alt="mikailokyay" /> </p>
+I'm a **Senior Machine Learning Scientist** at **Multiverse Computing**, where I focus on pioneering the next generation of intelligent systems. My passion lies in building, optimizing, and deploying state-of-the-art **Large Language Models (LLMs)** and **Multimodal Architectures**.
 
+---
 
+### 🔬 Core Expertise & Current Focus
 
-⚡ I'm currently working at Multiverse Computing as Senior Machine Learning Scientist
+* **Large Language Models (LLMs):** Deep diving into architecture design, fine-tuning, and deployment strategies.
+* **RAG (Retrieval Augmented Generation):** Architecting robust and scalable RAG systems to enhance LLM knowledge and utility.
+* **VLMs (Vision-Language Models) & Multimodals:** Exploring the convergence of language and vision for complex, real-world AI applications.
+* **Tech Stack:** Python, Java, and MLOps tools for scalable solutions.
 
-🔭 I'm currently working on LLMs, VLMs and Multimodals
+> **Current Work:** Shaping the future of LLMs, VLMs, and Multimodal systems in a high-impact research and development environment.
 
-🌱 I’m currently working on Large Language Models and RAG (Retrieval Augmented Generation)
+---
 
-💬 Ask me about LLMs, VLMs, Multimodals, NLP and Machine Learning with python and java
+### 🌐 Let's Connect & Collaborate
 
-😄 Pronouns: he/him/his
+| Platform | Handle | Link |
+| :--- | :--- | :--- |
+| **GitHub** | **mikailokyay** | [![Github Badge](https://img.shields.io/badge/-mikailokyay-000000?style=flat&logo=Github&logoColor=white)](https://github.com/mikailokyay "Follow on Github") |
+| **LinkedIn** | **Mikail Okyay** | [![Linkedin Badge](https://img.shields.io/badge/-Mikail%20Okyay-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikailokyay "Connect on LinkedIn") |
+| **Email** | **mikailokyy@gmail.com** | [![Gmail Badge](https://img.shields.io/badge/-mikailokyy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mikailokyy@gmail.com "Connect via Email") |
+| **Kaggle** | **mikailokyay** | [![Kaggle Badge](https://img.shields.io/badge/-mikailokyay-00acee?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mikailokyay "Follow on Kaggle") |
+| **HackerRank** | **@mikailokyy** | [![HackerRank Badge](https://img.shields.io/badge/-@mikailokyy-2EC866?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/mikailokyy "Follow on HackerRank") |
 
+💬 **Ask me about:** LLMs, VLMs, Multimodals, NLP, and advanced Machine Learning implementation with Python and Java.
 
+---
+
+### 📊 GitHub Activity & Stats
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mikailokyay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mikailokyay)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailokyay&layout=compact&hide=html" alt="mikailokyay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikailokyay&layout=compact&hide=html" alt="Mikail's Top Languages" /></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mikailokyay.mikailokyay)
-[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/mikailokyay/mikailokyay)
-![Repo Views](https://views.whatilearened.today/views/github/mikailokyay/mikailokyay.svg?cache=remove)
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=mikailokyay" alt="mikailokyay" />
+    <img src="https://views.whatilearened.today/views/github/mikailokyay/mikailokyay.svg?cache=remove" alt="Repo Views" />
+</p>
+
+---
+
+*Pronouns: he/him/his*
