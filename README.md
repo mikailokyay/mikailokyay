@@ -12,11 +12,11 @@
 
 ⚡ I'm currently working at Multiverse Computing as Senior Machine Learning Scientist
 
-🔭 I'm currently working on NLP, Machine Learning, Deep Learning
+🔭 I'm currently working on LLMs, VLMs and Multimodals
 
 🌱 I’m currently working on Large Language Models and RAG (Retrieval Augmented Generation)
 
-💬 Ask me about LLMs, NLP and Machine Learning with python and java
+💬 Ask me about LLMs, VLMs, Multimodals, NLP and Machine Learning with python and java
 
 😄 Pronouns: he/him/his
 
